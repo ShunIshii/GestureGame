@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40e9ce494ab92b64dbce62beb452d6df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slimeGreenPrefab: {instanceID: 0}
+  - slimeGreen: {instanceID: 0}
+  - circlePrefab: {fileID: 1614540104891650, guid: 929aaca75380eea42981c1f5e25dc9a4,
+      type: 2}
+  - circle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
